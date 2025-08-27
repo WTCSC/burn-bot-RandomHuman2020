@@ -1,0 +1,5 @@
+Q1 = input("")
+Q2 = input("")
+Q3 = input("")
+Q4 = input("")
+Q5 = input("")
